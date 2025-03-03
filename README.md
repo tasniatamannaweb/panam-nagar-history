@@ -77,4 +77,4 @@ Dive into the chilling tales and eerie legends surrounding the site.
 What to see and how to explore this historical city.
 
 This repository aims to capture the essence of Panam Nagar and preserve its forgotten history while opening up opportunities for further exploration and contribution.
-
+##Live Link-  https://tasniatamannaweb.github.io/panam-nagar-history/
